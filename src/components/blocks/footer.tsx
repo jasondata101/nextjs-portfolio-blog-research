@@ -47,7 +47,7 @@ export default function Footer() {
       bottom: {
         lastUpdated: "Last updated",
         madeWith: "Made with",
-        modifiedFrom: "Modified from",
+        modifiedFrom: "Build with",
       },
     },
     zh: {
@@ -254,13 +254,13 @@ export default function Footer() {
               <span>•</span>
               <span>{t.bottom.modifiedFrom}</span>
               <Link
-                href="https://github.com/dillionverma/portfolio"
+                href="https://github.com/zhengzangw/nextjs-portfolio-blog-research"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-foreground inline-flex items-center gap-1 transition-colors"
               >
                 <Icons.github className="h-4 w-4" />
-                <span>dillionverma/portfolio</span>
+                <span>zhengzangw/nextjs-portfolio-blog-research</span>
               </Link>
             </div>
           </div>
