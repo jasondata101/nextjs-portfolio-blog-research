@@ -40,8 +40,8 @@ export const DATA = {
     },
   },
   // Generel data
-  name: "Zangwei Zheng",
-  subtitle: "郑奘巍, Ph.D.",
+  name: "JasonData",
+  subtitle: "Jason Wang",
   description: "Full Stack Developer & AI Researcher\nTech Lead at HPC-AI Tech",
   summary:
     "Hi, I'm Zangwei👋, founder of [Open-Sora](https://github.com/hpcaitech/Open-Sora) and [VideoOcean](https://video-ocean.com/). I'm working on AI-powered video generation and SaaS products that bridge research and real-world creativity.\n\nI earned my Ph.D. from ![NUS Logo](/icon/nus.png) [National University of Singapore](https://nus.edu.sg/) (NUS), advised by Prof. [Yang You](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=en). I had my research intern in ![Bytedance Logo](/icon/bytedance.png) [Bytedance](https://bytedance.com/), mentored by [Xuan Zhou](https://scholar.google.com/citations?user=gSqwyvsAAAAJ&hl=en) and [Youlong Cheng](https://scholar.google.com/citations?user=CSTk_LMAAAAJ&hl=en). I received my B.Sc. in Computer Science from ![NJU Logo](/icon/nju.png) [Nanjing University](https://www.nju.edu.cn/en/) (NJU). I worked remotely as a research intern at ![UC Berkeley Logo](/icon/ucb.png) [UC Berkeley](https://www.berkeley.edu/) for a year, mentored by Dr. [Xiangyu Yue](https://scholar.google.com/citations?user=-xQ-C1sAAAAJ&hl=en&authuser=1) and Prof. [Alberto L. Sangiovanni-Vincentelli](https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html). You can find more about my background in my [CV](./resume.pdf).\n\n🔬 **Research Interests:** Video Generation, Efficient ML and DL (Deep Learning) Optimization.",
